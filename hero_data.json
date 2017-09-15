@@ -1,0 +1,1206 @@
+{
+   "abathur":{
+      "maps":[
+         "Cursed Hollow",
+         "Hanamura",
+         "Towers of Doom"
+      ],
+      "cBy":[
+         "illidan",
+         "murky",
+         "the-butcher",
+         "tracer",
+         "dehaka",
+         "falstad",
+         "ragnaros"
+      ]
+   },
+   "alarak":{
+      "maps":[
+         "Braxis Holdout",
+         "Towers of Doom"
+      ],
+      "cBy":[
+         "zeratul",
+         "tracer",
+         "azmodan",
+         "uther",
+         "anubarak",
+         "the-butcher"
+      ]
+   },
+   "anubarak":{
+      "maps":[
+         "Dragon Shire"
+      ],
+      "cBy":[
+         "jaina",
+         "kerrigan",
+         "rehgar",
+         "leoric",
+         "lunara",
+         "tracer",
+         "valla"
+      ]
+   },
+   "artanis":{
+      "maps":[
+         "Battlefield of Eternity",
+         "Infernal Shrines"
+      ],
+      "cBy":[
+         "malfurion",
+         "tassadar",
+         "zarya",
+         "muradin",
+         "brightwing",
+         "varian"
+      ]
+   },
+   "arthas":{
+      "maps":[
+         "Blackhearts Bay",
+         "Braxis Holdout",
+         "Hanamura",
+         "Haunted Mines",
+         "Infernal Shrines",
+         "Tomb of the Spider Queen"
+      ],
+      "cBy":[
+         "kerrigan",
+         "thrall",
+         "jaina",
+         "malfurion",
+         "tychus",
+         "artanis",
+         "guldan",
+         "kaelthas"
+      ]
+   },
+   "auriel":{
+      "maps":[
+         "Braxis Holdout",
+         "Dragon Shire",
+         "Haunted Mines",
+         "Infernal Shrines",
+         "Tomb of the Spider Queen"
+      ],
+      "cBy":[
+         "kharazim",
+         "tassadar",
+         "cho",
+         "gall",
+         "the-butcher",
+         "tyrande",
+         "kerrigan"
+      ]
+   },
+   "azmodan":{
+      "maps":[
+         "Infernal Shrines",
+         "Tomb of the Spider Queen",
+         "Warhead Junction"
+      ],
+      "cBy":[
+         "jaina",
+         "johanna",
+         "malfurion",
+         "diablo",
+         "muradin",
+         "the-butcher"
+      ]
+   },
+   "brightwing":{
+      "maps":[
+         "Dragon Shire",
+         "Hanamura",
+         "Sky Temple",
+         "Towers of Doom",
+         "Warhead Junction"
+      ],
+      "cBy":[
+         "tassadar",
+         "dehaka",
+         "falstad",
+         "anubarak",
+         "varian",
+         "greymane"
+      ]
+   },
+   "cassia":{
+      "maps":[
+         "Braxis Holdout",
+         "Haunted Mines",
+         "Infernal Shrines"
+      ],
+      "cBy":[
+         "li-li",
+         "johanna",
+         "artanis",
+         "kaelthas",
+         "guldan",
+         "jaina"
+      ]
+   },
+   "chen":{
+      "maps":[
+         "Braxis Holdout",
+         "Hanamura"
+      ],
+      "cBy":[
+         "jaina",
+         "kel-thuzad",
+         "greymane",
+         "anubarak",
+         "muradin",
+         "johanna",
+         "varian"
+      ]
+   },
+   "cho":{
+      "maps":[
+         "Braxis Holdout",
+         "Infernal Shrines"
+      ],
+      "cBy":[
+         "auriel",
+         "e-t-c",
+         "rehgar",
+         "uther",
+         "greymane",
+         "kharazim",
+         "leoric",
+         "raynor"
+      ]
+   },
+   "chromie":{
+      "maps":[
+         "Braxis Holdout",
+         "Towers of Doom"
+      ],
+      "cBy":[
+         "johanna",
+         "thrall",
+         "malfurion",
+         "illidan",
+         "diablo",
+         "stitches",
+         "tracer"
+      ]
+   },
+   "dehaka":{
+      "maps":[
+         "Braxis Holdout",
+         "Dragon Shire",
+         "Hanamura",
+         "Sky Temple",
+         "Warhead Junction"
+      ],
+      "cBy":[
+         "lucio",
+         "zarya",
+         "anubarak",
+         "jaina",
+         "valla",
+         "nazeebo",
+         "zuljin"
+      ]
+   },
+   "diablo":{
+      "maps":[
+         "Infernal Shrines",
+         "Sky Temple",
+         "Tomb of the Spider Queen"
+      ],
+      "cBy":[
+         "jaina",
+         "malfurion",
+         "thrall",
+         "tyrande",
+         "leoric",
+         "raynor",
+         "tychus"
+      ]
+   },
+   "dva":{
+      "maps":[
+         "Cursed Hollow",
+         "Garden of Terror",
+         "Infernal Shrines",
+         "Sky Temple",
+         "Towers of Doom"
+      ],
+      "cBy":[
+         "e-t-c",
+         "diablo",
+         "malfurion",
+         "uther",
+         "alarak",
+         "jaina",
+         "zeratul",
+         "valeera"
+      ]
+   },
+   "e-t-c":{
+      "maps":[
+         "Tomb of the Spider Queen"
+      ],
+      "cBy":[
+         "jaina",
+         "nazeebo",
+         "rehgar",
+         "leoric",
+         "lunara",
+         "valla"
+      ]
+   },
+   "falstad":{
+      "maps":[
+         "Braxis Holdout",
+         "Cursed Hollow",
+         "Dragon Shire",
+         "Hanamura",
+         "Towers of Doom",
+         "Warhead Junction"
+      ],
+      "cBy":[
+         "arthas",
+         "e-t-c",
+         "tassadar",
+         "uther",
+         "greymane",
+         "illidan",
+         "nova",
+         "valeera",
+         "zeratul"
+      ]
+   },
+   "gall":{
+      "maps":[
+         "Braxis Holdout",
+         "Infernal Shrines"
+      ],
+      "cBy":[
+         "auriel",
+         "e-t-c",
+         "rehgar",
+         "uther",
+         "greymane",
+         "kharazim",
+         "leoric",
+         "raynor"
+      ]
+   },
+   "garrosh":{
+      "maps":[
+         "Braxis Holdout",
+         "Dragon Shire",
+         "Garden of Terror",
+         "Tomb of the Spider Queen",
+         "Towers of Doom"
+      ],
+      "cBy":[
+         "stitches",
+         "e-t-c",
+         "uther",
+         "malfurion",
+         "tassadar",
+         "malthael",
+         "tychus",
+         "valla"
+      ]
+   },
+   "gazlowe":{
+      "maps":[
+         "Braxis Holdout",
+         "Cursed Hollow",
+         "Infernal Shrines",
+         "Sky Temple",
+         "Warhead Junction"
+      ],
+      "cBy":[
+         "diablo",
+         "e-t-c",
+         "jaina",
+         "johanna",
+         "kaelthas",
+         "malfurion",
+         "greymane",
+         "guldan",
+         "kaelthas",
+         "nazeebo",
+         "nova"
+      ]
+   },
+   "genji":{
+      "maps":[
+         "Cursed Hollow",
+         "Garden of Terror",
+         "Hanamura",
+         "Infernal Shrines"
+      ],
+      "cBy":[
+         "jaina",
+         "uther",
+         "e-t-c",
+         "varian",
+         "malfurion",
+         "lunara"
+      ]
+   },
+   "greymane":{
+      "maps":[
+         "Battlefield of Eternity",
+         "Infernal Shrines",
+         "Tomb of the Spider Queen"
+      ],
+      "cBy":[
+         "abathur",
+         "e-t-c",
+         "tassadar",
+         "uther",
+         "brightwing",
+         "johanna",
+         "muradin",
+         "xul"
+      ]
+   },
+   "guldan":{
+      "maps":[
+         "Braxis Holdout",
+         "Dragon Shire",
+         "Infernal Shrines",
+         "Tomb of the Spider Queen"
+      ],
+      "cBy":[
+         "e-t-c",
+         "chen",
+         "malfurion",
+         "brightwing",
+         "illidan",
+         "greymane",
+         "kerrigan",
+         "tracer"
+      ]
+   },
+   "illidan":{
+      "maps":[
+         "Blackhearts Bay",
+         "Cursed Hollow",
+         "Garden of Terror",
+         "Warhead Junction"
+      ],
+      "cBy":[
+         "abathur",
+         "medivh",
+         "rehgar",
+         "tassadar",
+         "tyrael",
+         "uther",
+         "zarya",
+         "arthas",
+         "brightwing",
+         "e-t-c",
+         "li-li",
+         "muradin",
+         "sonya",
+         "uther"
+      ]
+   },
+   "jaina":{
+      "maps":[
+         "Battlefield of Eternity",
+         "Braxis Holdout",
+         "Cursed Hollow",
+         "Haunted Mines",
+         "Infernal Shrines",
+         "Tomb of the Spider Queen"
+      ],
+      "cBy":[
+         "arthas",
+         "e-t-c",
+         "johanna",
+         "malfurion",
+         "muradin",
+         "the-butcher",
+         "valeera",
+         "varian",
+         "xul",
+         "anubarak",
+         "chen",
+         "genji",
+         "nova",
+         "tracer",
+         "valeera",
+         "zeratul"
+      ]
+   },
+   "johanna":{
+      "maps":[
+         "Braxis Holdout",
+         "Dragon Shire",
+         "Infernal Shrines",
+         "Tomb of the Spider Queen"
+      ],
+      "cBy":[
+         "guldan",
+         "kaelthas",
+         "jaina",
+         "rehgar",
+         "varian"
+      ]
+   },
+   "kaelthas":{
+      "maps":[
+         "Braxis Holdout",
+         "Dragon Shire",
+         "Infernal Shrines",
+         "Tomb of the Spider Queen",
+         "Towers of Doom"
+      ],
+      "cBy":[
+         "e-t-c",
+         "arthas",
+         "malfurion",
+         "uther",
+         "illidan",
+         "zeratul",
+         "kerrigan",
+         "tracer"
+      ]
+   },
+   "kel-thuzad":{
+      "maps":[
+         "Braxis Holdout",
+         "Towers of Doom"
+      ],
+      "cBy":[
+         "arthas",
+         "johanna",
+         "malfurion",
+         "the-butcher",
+         "valeera",
+         "varian",
+         "xul",
+         "anubarak",
+         "chen",
+         "genji",
+         "nova",
+         "samuro",
+         "tracer",
+         "valeera",
+         "zeratul"
+      ]
+   },
+   "kerrigan":{
+      "maps":[
+         "Braxis Holdout",
+         "Dragon Shire",
+         "Infernal Shrines",
+         "Tomb of the Spider Queen"
+      ],
+      "cBy":[
+         "tyrael",
+         "uther",
+         "medivh",
+         "tyrande",
+         "tyrael",
+         "uther",
+         "medivh",
+         "auriel"
+      ]
+   },
+   "kharazim":{
+      "maps":[
+         "Battlefield of Eternity",
+         "Sky Temple",
+         "Towers of Doom"
+      ],
+      "cBy":[
+         "muradin",
+         "e-t-c",
+         "tassadar",
+         "zarya",
+         "alarak",
+         "chen",
+         "muradin",
+         "johanna"
+      ]
+   },
+   "leoric":{
+      "maps":[
+         "Braxis Holdout",
+         "Garden of Terror",
+         "Tomb of the Spider Queen"
+      ],
+      "cBy":[
+         "jaina",
+         "kaelthas",
+         "malfurion",
+         "illidan",
+         "tracer",
+         "valla"
+      ]
+   },
+   "li-li":{
+      "maps":[
+         "Cursed Hollow",
+         "Infernal Shrines",
+         "Warhead Junction"
+      ],
+      "cBy":[
+         "rehgar",
+         "brightwing",
+         "uther",
+         "valeera",
+         "zeratul",
+         "chromie",
+         "raynor"
+      ]
+   },
+   "li-ming":{
+      "maps":[
+         "Battlefield of Eternity",
+         "Cursed Hollow",
+         "Infernal Shrines"
+      ],
+      "cBy":[
+         "arthas",
+         "e-t-c",
+         "johanna",
+         "malfurion",
+         "valeera",
+         "varian",
+         "xul",
+         "anubarak",
+         "chen",
+         "samuro",
+         "tracer",
+         "valeera",
+         "zeratul"
+      ]
+   },
+   "lt-morales":{
+      "maps":[
+         "Braxis Holdout",
+         "Garden of Terror",
+         "Hanamura",
+         "Sky Temple"
+      ],
+      "cBy":[
+         "zuljin",
+         "valla",
+         "raynor",
+         "sgt-hammer",
+         "alarak",
+         "e-t-c",
+         "kerrigan",
+         "zeratul"
+      ]
+   },
+   "lucio":{
+      "maps":[
+         "Blackhearts Bay",
+         "Dragon Shire",
+         "Hanamura"
+      ],
+      "cBy":[
+         "diablo",
+         "sgt-hammer",
+         "tassadar",
+         "valla",
+         "varian",
+         "valeera",
+         "zeratul"
+      ]
+   },
+   "lunara":{
+      "maps":[
+
+      ],
+      "cBy":[
+         "jaina",
+         "e-t-c",
+         "johanna",
+         "kaelthas",
+         "illidan",
+         "kharazim",
+         "raynor",
+         "the-butcher"
+      ]
+   },
+   "malfurion":{
+      "maps":[
+         "Battlefield of Eternity",
+         "Garden of Terror",
+         "Infernal Shrines"
+      ],
+      "cBy":[
+         "chromie",
+         "guldan",
+         "jaina",
+         "kaelthas",
+         "li-ming",
+         "nazeebo",
+         "ragnaros",
+         "jaina",
+         "kerrigan",
+         "li-ming",
+         "tracer"
+      ]
+   },
+   "malthael":{
+      "maps":[
+         "Battlefield of Eternity",
+         "Garden of Terror"
+      ],
+      "cBy":[
+         "e-t-c",
+         "johanna",
+         "tassadar",
+         "uther",
+         "falstad",
+         "lunara",
+         "tracer",
+         "valla"
+      ]
+   },
+   "medivh":{
+      "maps":[
+
+      ],
+      "cBy":[
+         "tassadar",
+         "tracer",
+         "sonya",
+         "kerrigan",
+         "anubarak",
+         "sylvanas",
+         "lunara"
+      ]
+   },
+   "muradin":{
+      "maps":[
+         "Dragon Shire",
+         "Garden of Terror",
+         "Infernal Shrines"
+      ],
+      "cBy":[
+         "kerrigan",
+         "tyrande",
+         "jaina",
+         "rehgar",
+         "tychus",
+         "alarak",
+         "jaina",
+         "tyrael"
+      ]
+   },
+   "murky":{
+      "maps":[
+         "Garden of Terror"
+      ],
+      "cBy":[
+         "abathur",
+         "tassadar",
+         "zarya",
+         "li-ming",
+         "tychus",
+         "zarya"
+      ]
+   },
+   "nazeebo":{
+      "maps":[
+         "Cursed Hollow",
+         "Tomb of the Spider Queen",
+         "Towers of Doom"
+      ],
+      "cBy":[
+         "jaina",
+         "li-ming",
+         "e-t-c",
+         "muradin",
+         "alarak",
+         "tracer",
+         "zarya"
+      ]
+   },
+   "nova":{
+      "maps":[
+         "Warhead Junction"
+      ],
+      "cBy":[
+         "e-t-c",
+         "tyrael",
+         "tyrande",
+         "chen",
+         "illidan",
+         "tassadar",
+         "zarya"
+      ]
+   },
+   "probius":{
+      "maps":[
+         "Cursed Hollow",
+         "Infernal Shrines",
+         "Sky Temple",
+         "Towers of Doom",
+         "Hanamura"
+      ],
+      "cBy":[
+         "e-t-c",
+         "diablo",
+         "brightwing",
+         "malfurion",
+         "kerrigan",
+         "alarak",
+         "zeratul",
+         "tracer"
+      ]
+   },
+   "ragnaros":{
+      "maps":[
+         "Braxis Holdout",
+         "Infernal Shrines",
+         "Tomb of the Spider Queen"
+      ],
+      "cBy":[
+         "arthas",
+         "johanna",
+         "malfurion",
+         "muradin",
+         "chen",
+         "lunara",
+         "nova",
+         "tracer"
+      ]
+   },
+   "raynor":{
+      "maps":[
+
+      ],
+      "cBy":[
+         "illidan",
+         "kharazim",
+         "leoric",
+         "arthas",
+         "johanna",
+         "zeratul"
+      ]
+   },
+   "rehgar":{
+      "maps":[
+         "Blackhearts Bay",
+         "Infernal Shrines",
+         "Tomb of the Spider Queen"
+      ],
+      "cBy":[
+         "illidan",
+         "e-t-c",
+         "kerrigan",
+         "thrall",
+         "muradin",
+         "lunara",
+         "illidan",
+         "varian"
+      ]
+   },
+   "rexxar":{
+      "maps":[
+         "Blackhearts Bay",
+         "Braxis Holdout",
+         "Dragon Shire"
+      ],
+      "cBy":[
+         "e-t-c",
+         "jaina",
+         "malfurion",
+         "kaelthas",
+         "tychus",
+         "artanis"
+      ]
+   },
+   "samuro":{
+      "maps":[
+         "Battlefield of Eternity",
+         "Blackhearts Bay",
+         "Cursed Hollow"
+      ],
+      "cBy":[
+         "azmodan",
+         "sgt-hammer",
+         "gazlowe",
+         "alarak",
+         "kaelthas",
+         "tassadar",
+         "zarya"
+      ]
+   },
+   "sgt-hammer":{
+      "maps":[
+
+      ],
+      "cBy":[
+         "abathur",
+         "e-t-c",
+         "uther",
+         "chen",
+         "illidan",
+         "kaelthas",
+         "nova",
+         "tyrael"
+      ]
+   },
+   "sonya":{
+      "maps":[
+         "Battlefield of Eternity",
+         "Blackhearts Bay",
+         "Cursed Hollow",
+         "Garden of Terror",
+         "Infernal Shrines"
+      ],
+      "cBy":[
+         "jaina",
+         "medivh",
+         "rehgar",
+         "tassadar",
+         "zarya",
+         "brightwing",
+         "e-t-c",
+         "lunara",
+         "muradin",
+         "uther"
+      ]
+   },
+   "stitches":{
+      "maps":[
+
+      ],
+      "cBy":[
+         "arthas",
+         "tyrande",
+         "uther",
+         "tracer",
+         "uther",
+         "zeratul"
+      ]
+   },
+   "stukov":{
+      "maps":[
+         "Braxis Holdout",
+         "Cursed Hollow",
+         "Haunted Mines"
+      ],
+      "cBy":[
+         "raynor",
+         "e-t-c",
+         "sgt-hammer",
+         "anubarak",
+         "genji",
+         "uther"
+      ]
+   },
+   "sylvanas":{
+      "maps":[
+         "Battlefield of Eternity",
+         "Braxis Holdout",
+         "Haunted Mines",
+         "Tomb of the Spider Queen"
+      ],
+      "cBy":[
+         "jaina",
+         "tassadar",
+         "valla",
+         "chen",
+         "diablo",
+         "nova",
+         "zeratul"
+      ]
+   },
+   "tassadar":{
+      "maps":[
+         "Braxis Holdout",
+         "Haunted Mines",
+         "Infernal Shrines",
+         "Towers of Doom"
+      ],
+      "cBy":[
+         "artanis",
+         "illidan",
+         "kerrigan",
+         "valla",
+         "alarak",
+         "varian",
+         "chen"
+      ]
+   },
+   "the-butcher":{
+      "maps":[
+         "Dragon Shire",
+         "Garden of Terror",
+         "Sky Temple",
+         "Tomb of the Spider Queen",
+         "Towers of Doom",
+         "Warhead Junction"
+      ],
+      "cBy":[
+         "abathur",
+         "tyrande",
+         "uther",
+         "tyrael",
+         "johanna",
+         "zeratul",
+         "brightwing",
+         "uther"
+      ]
+   },
+   "the-lost-vikings":{
+      "maps":[
+
+      ],
+      "cBy":[
+         "e-t-c",
+         "li-ming",
+         "lt-morales",
+         "zeratul",
+         "nova",
+         "kaelthas",
+         "li-ming"
+      ]
+   },
+   "thrall":{
+      "maps":[
+         "Blackhearts Bay",
+         "Braxis Holdout",
+         "Haunted Mines",
+         "Sky Temple"
+      ],
+      "cBy":[
+         "diablo",
+         "rehgar",
+         "guldan",
+         "johanna",
+         "falstad",
+         "muradin"
+      ]
+   },
+   "tracer":{
+      "maps":[
+
+      ],
+      "cBy":[
+         "tassadar",
+         "the-lost-vikings",
+         "brightwing",
+         "brightwing",
+         "abathur",
+         "sgt-hammer"
+      ]
+   },
+   "tychus":{
+      "maps":[
+         "Cursed Hollow",
+         "Towers of Doom"
+      ],
+      "cBy":[
+         "anubarak",
+         "dehaka",
+         "tassadar",
+         "uther",
+         "anubarak",
+         "rexxar",
+         "lucio"
+      ]
+   },
+   "tyrael":{
+      "maps":[
+         "Cursed Hollow",
+         "Sky Temple",
+         "Towers of Doom"
+      ],
+      "cBy":[
+         "e-t-c",
+         "kerrigan",
+         "illidan",
+         "malfurion",
+         "zeratul",
+         "varian",
+         "tychus",
+         "raynor"
+      ]
+   },
+   "tyrande":{
+      "maps":[
+         "Battlefield of Eternity",
+         "Cursed Hollow",
+         "Dragon Shire",
+         "Tomb of the Spider Queen"
+      ],
+      "cBy":[
+         "diablo",
+         "stitches",
+         "varian",
+         "li-ming",
+         "johanna",
+         "tyrael",
+         "zeratul"
+      ]
+   },
+   "uther":{
+      "maps":[
+
+      ],
+      "cBy":[
+         "kerrigan",
+         "illidan",
+         "the-butcher",
+         "zuljin",
+         "lunara",
+         "nazeebo",
+         "sylvanas",
+         "zagara"
+      ]
+   },
+   "valeera":{
+      "maps":[
+         "Blackhearts Bay",
+         "Cursed Hollow",
+         "Garden of Terror",
+         "Sky Temple",
+         "Warhead Junction"
+      ],
+      "cBy":[
+         "tassadar",
+         "medivh",
+         "thrall",
+         "jaina",
+         "e-t-c",
+         "dehaka",
+         "tassadar",
+         "brightwing"
+      ]
+   },
+   "valla":{
+      "maps":[
+         "Battlefield of Eternity"
+      ],
+      "cBy":[
+         "arthas",
+         "e-t-c",
+         "tassadar",
+         "uther",
+         "greymane",
+         "illidan",
+         "nova",
+         "valeera",
+         "zeratul"
+      ]
+   },
+   "varian":{
+      "maps":[
+         "Battlefield of Eternity",
+         "Dragon Shire",
+         "Garden of Terror",
+         "Hanamura"
+      ],
+      "cBy":[
+         "e-t-c",
+         "li-ming",
+         "jaina",
+         "tyrande",
+         "uther",
+         "alarak",
+         "lunara",
+         "muradin",
+         "valla"
+      ]
+   },
+   "xul":{
+      "maps":[
+         "Blackhearts Bay",
+         "Dragon Shire",
+         "Infernal Shrines",
+         "Tomb of the Spider Queen"
+      ],
+      "cBy":[
+         "arthas",
+         "jaina",
+         "nazeebo",
+         "guldan",
+         "kaelthas",
+         "dehaka"
+      ]
+   },
+   "zagara":{
+      "maps":[
+         "Braxis Holdout",
+         "Cursed Hollow",
+         "Garden of Terror",
+         "Sky Temple",
+         "Towers of Doom",
+         "Warhead Junction",
+         "Hanamura"
+      ],
+      "cBy":[
+         "e-t-c",
+         "diablo",
+         "zarya",
+         "brightwing",
+         "kerrigan",
+         "alarak",
+         "nova",
+         "zeratul"
+      ]
+   },
+   "zarya":{
+      "maps":[
+         "Cursed Hollow",
+         "Hanamura",
+         "Haunted Mines",
+         "Infernal Shrines",
+         "Towers of Doom"
+      ],
+      "cBy":[
+         "e-t-c",
+         "muradin",
+         "johanna",
+         "chen",
+         "alarak",
+         "illidan",
+         "sylvanas",
+         "jaina"
+      ]
+   },
+   "zeratul":{
+      "maps":[
+         "Blackhearts Bay"
+      ],
+      "cBy":[
+         "abathur",
+         "diablo",
+         "jaina",
+         "uther",
+         "brightwing",
+         "chen",
+         "tassadar",
+         "uther"
+      ]
+   },
+   "zuljin":{
+      "maps":[
+
+      ],
+      "cBy":[
+         "tyrael",
+         "e-t-c",
+         "tassadar",
+         "uther",
+         "medivh",
+         "e-t-c",
+         "dehaka",
+         "diablo",
+         "the-butcher",
+         "zeratul"
+      ]
+   }
+}
